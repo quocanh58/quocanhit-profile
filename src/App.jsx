@@ -2,8 +2,8 @@ import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
-import Home from "./pages/home/home";
-import Contact from "./pages/contact/contact";
+import Home from "./pages/home/Home";
+import Contact from "./pages/contact/Contact";
 import About from "./pages/about/About";
 import Portfolio from "./pages/portfolio/Portfolio";
 
